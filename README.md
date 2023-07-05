@@ -28,7 +28,6 @@ brew install node npm git
 ### 2. Install InstaPy-Dashboard
 
 ```bash
-git clone https://github.com/converge/instapy-dashboard.git
 cd instapy-dashboard
 npm install
 ```
@@ -50,7 +49,6 @@ apt-get install -y nodejs
 ### 2. Install InstaPy-Dashboard
 
 ```bash
-git clone https://github.com/converge/instapy-dashboard.git
 cd instapy-dashboard
 npm install
 ```
@@ -70,7 +68,7 @@ npm is bundled with node.
 ### 2. Install InstaPy-Dashboard
 
 ```bash
-git clone https://github.com/converge/instapy-dashboard.git
+
 cd instapy-dashboard
 npm install
 ```
